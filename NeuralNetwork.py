@@ -1,3 +1,6 @@
+#Complete code for neural network from scratch
+#Predicts wether a given point (x,y coordinates) is within a circle (radius given)
+
 import re
 import sys
 import math
